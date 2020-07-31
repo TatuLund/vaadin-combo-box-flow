@@ -59,6 +59,7 @@ public class LazyLoadingPage extends Div {
         createComboBoxInATemplate();
         addSeparator();
         createCallbackDataProviderWhichReturnsZeroItems();
+        addSeparator();
         createComboBoxWithCustomPageSizeAndLazyLoading();
     }
 
